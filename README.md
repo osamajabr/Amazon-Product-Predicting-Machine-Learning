@@ -1,3 +1,7 @@
+![ALT text](assets/Web%20interface.png)
+
+
+
 ### Project Overview
 
 This repository hosts a Python-based search engine and product recommendation system, developed to enhance the searchability and recommendation of products within Amazon's dataset. The application employs a variety of libraries to preprocess data and enable product searches through sophisticated text processing techniques and similarity measures. Additionally, it includes a user-friendly interface crafted with **Streamlit**, demonstrating the practical application of machine learning models.
@@ -7,8 +11,8 @@ This repository hosts a Python-based search engine and product recommendation sy
 Contained within the repository are the following key files:
 - `Amazon Product Predicting.py`: This is the primary Python script that contains all the functional components of the search engine and the Streamlit web interface.
 - `amazon_product.csv`: This dataset file is essential as it contains the Amazon product details necessary for the search functionality.
-- `img.png`: This image file is incorporated into the Streamlit interface, designed to improve user interaction and visual appeal.
-
+- `assets`: This file contains some images used in this project
+  
 ### Software and Library Requirements
 
 This project is implemented in **Python** and necessitates the installation of several libraries, namely: Pandas, NumPy, NLTK, scikit-learn, Streamlit, and PIL (Pillow). 
